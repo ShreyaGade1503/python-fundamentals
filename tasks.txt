@@ -1,3 +1,4 @@
 Solve maths problems
-Write a poem
 Create a short story
+Build a project
+make pancakes 
