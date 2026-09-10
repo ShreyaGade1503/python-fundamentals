@@ -10,7 +10,7 @@ import random
 randomNo = random.randint(-1, 1)
 computer = randomNo
 
-youstr = input("Enter your choice : ")
+youstr = input("Enter your choice (Rock : r, Paper : p, Sissor : s): ")
 
 youDict = { "r" : 1 , "s" : -1 , "p" : 0 }
 you = youDict[youstr]
@@ -38,4 +38,7 @@ else:
     print("It's a tie ")    
     
 
-print(f" Computer chose : {computer} and You chose : {you} ")
+Dictionary = { 1 : "Rock" , -1 : "Scissor" , 0 : "Paper" }
+comp = Dictionary[computer]
+you = Dictionary[you]
+print(f" Computer chose : {comp} and You chose : {you} ")

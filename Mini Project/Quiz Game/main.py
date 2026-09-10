@@ -5,27 +5,27 @@ name = input("What is your name?")
 list =[
     {
         "Q1": "What is the capital of india?",
-        "Options" : ["New Delhi", "Mumbai", "Kolkata", "Chennai"],
+        "Options" : ["A. New Delhi", "B. Mumbai", "C. Kolkata", "D. Chennai"],
         "Answer": "A"
     },
     {
         "Q2": "What is the largest state of india?",
-        "Options" : ["Madhya Pradesh", "Uttar Pradesh", "Maharashtra","Rajasthan"],
+        "Options" : ["A. Madhya Pradesh", "B. Uttar Pradesh", "C. Maharashtra","D. Rajasthan"],
         "Answer": "D"
     },
     {
         "Q3": "What is the national animal of india?",
-        "Options" : ["Lion", "Tiger", "Elephant", "Peacock"],
+        "Options" : ["A. Lion", "B. Tiger", "C. Elephant", "D. Peacock"],
         "Answer": "B"
     },
     {
         "Q4": "What is the prime number among the following?",
-        "Options" : ["4", "6","11", "9"],
+        "Options" : ["A. 4", "B. 6","C. 11", "D. 9"],
         "Answer": "C"
     },
     {
         "Q5": "What is the national bird of india?",
-        "Options" : ["Peacock", "Sparrow", "Parrot", "Eagle"],
+        "Options" : ["A. Peacock", "B. Sparrow", "C. Parrot", "D. Eagle"],
         "Answer": "A"
     },
 ]
