@@ -1,0 +1,1 @@
+[{'amount': 100, 'category': 'food', 'description': 'samosa'}, {'amount': 200, 'category': 'food', 'description': 'dosa'}, {'amount': 900, 'category': 'travel', 'description': 'bus pass'}]
